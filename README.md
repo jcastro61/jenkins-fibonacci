@@ -2,4 +2,4 @@
 [![Build Status](http://3.210.68.140/buildStatus/icon?job=jenkins-fibonacci)](http://3.210.68.140/job/jenkins-fibonacci/)<br>
 Demonstrates the running of scripts from the repository using relative and absolute paths.<br>
 Calculates fibonacci series from 1 to 10
-[![Build Status](http://3.210.68.140/job/jenkins-fibonacci/badge/icon)](http://3.210.68.140/job/jenkins-fibonacci/)<br>
+<image>http://3.210.68.140/job/jenkins-fibonacci/badge/icon</image>
