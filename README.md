@@ -1,2 +1,2 @@
-# jenkins-fibonacci
+# jenkins-fibonacci [![Build Status](http://3.210.68.140/buildStatus/icon?job=jenkins-fibonacci)](http://3.210.68.140/job/jenkins-fibonacci/)
 Demonstrates the running of scripts from the repository using relative and absolute paths.
